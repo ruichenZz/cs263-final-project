@@ -23,24 +23,8 @@ cd cs263-final-project
 Run the following commands to create and activate a Conda environment:
 
 ```bash
-conda create --name lvlm_env python=3.10 -y
-conda activate lvlm_env
-```
-
-### 4. Install Dependencies
-
-Install all the required packages listed in the requirements.txt file:
-
-```bash
-pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
+conda create -yn vcd python=3.9
+conda activate vcd
+cd VCD
 pip install -r requirements.txt
-```
-Use `conda deactivate` to exit the environment when you are done working.
-
-### 5. Download AMBER dataset
-
-```bash
-gdown https://drive.google.com/uc?id=1MaCHgtupcZUjf007anNl4_MV0o4DjXvl -O dataset/AMBER.zip
-unzip AMBER.zip
-rm AMBER.zip
 ```
