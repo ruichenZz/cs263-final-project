@@ -25,6 +25,6 @@ Run the following commands to create and activate a Conda environment:
 ```bash
 conda create -yn vcd python=3.9
 conda activate vcd
-cd VCD
+cd cs263-final-project
 pip install -r requirements.txt
 ```
