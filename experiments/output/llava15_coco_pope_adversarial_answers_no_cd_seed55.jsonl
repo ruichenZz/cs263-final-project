@@ -1,0 +1,100 @@
+{"question_id": 1, "prompt": "Is there a snowboard in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 2, "prompt": "Is there a backpack in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 3, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 4, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 5, "prompt": "Is there a skis in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 6, "prompt": "Is there a dog in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 7, "prompt": "Is there a truck in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 8, "prompt": "Is there a car in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 9, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 10, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 11, "prompt": "Is there an umbrella in the imange?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 12, "prompt": "Is there a handbag in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 13, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 14, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 15, "prompt": "Is there a bicycle in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 16, "prompt": "Is there a motorcycle in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 17, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 18, "prompt": "Is there a truck in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 19, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 20, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 21, "prompt": "Is there a potted plant in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 22, "prompt": "Is there a vase in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 23, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 24, "prompt": "Is there a truck in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 25, "prompt": "Is there a traffic light in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 26, "prompt": "Is there a bus in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 27, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 28, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 29, "prompt": "Is there a car in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 30, "prompt": "Is there a truck in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 31, "prompt": "Is there a dog in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 32, "prompt": "Is there a person in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 33, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 34, "prompt": "Is there a chair in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 35, "prompt": "Is there a bed in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 36, "prompt": "Is there a book in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 37, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 38, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 39, "prompt": "Is there a spoon in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 40, "prompt": "Is there a cup in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 41, "prompt": "Is there a fork in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 42, "prompt": "Is there a dining table in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 43, "prompt": "Is there a tv in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 44, "prompt": "Is there a person in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 45, "prompt": "Is there a toaster in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 46, "prompt": "Is there a book in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 47, "prompt": "Is there a microwave in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 48, "prompt": "Is there a bottle in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 49, "prompt": "Is there a backpack in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 50, "prompt": "Is there a handbag in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 51, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 52, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 53, "prompt": "Is there a skis in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 54, "prompt": "Is there a snowboard in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 55, "prompt": "Is there a bird in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 56, "prompt": "Is there a handbag in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 57, "prompt": "Is there a person in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 58, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 59, "prompt": "Is there a boat in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 60, "prompt": "Is there a chair in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 61, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 62, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 63, "prompt": "Is there an orange in the imange?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 64, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 65, "prompt": "Is there a bottle in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 66, "prompt": "Is there a cup in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 67, "prompt": "Is there a backpack in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 68, "prompt": "Is there a handbag in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 69, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 70, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 71, "prompt": "Is there a bus in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 72, "prompt": "Is there a traffic light in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 73, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 74, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 75, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 76, "prompt": "Is there a cup in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 77, "prompt": "Is there a chair in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 78, "prompt": "Is there a couch in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 79, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 80, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 81, "prompt": "Is there a sandwich in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 82, "prompt": "Is there a bowl in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 83, "prompt": "Is there a hot dog in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 84, "prompt": "Is there a handbag in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 85, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 86, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 87, "prompt": "Is there a car in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 88, "prompt": "Is there a truck in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 89, "prompt": "Is there a frisbee in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 90, "prompt": "Is there a dog in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 91, "prompt": "Is there a knife in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 92, "prompt": "Is there a cup in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 93, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 94, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 95, "prompt": "Is there a cake in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 96, "prompt": "Is there a bottle in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 97, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 98, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 99, "prompt": "Is there a remote in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 100, "prompt": "Is there a tv in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
