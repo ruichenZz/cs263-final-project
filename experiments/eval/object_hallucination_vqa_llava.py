@@ -20,7 +20,7 @@ import math
 
 # import kornia
 from transformers import set_seed
-from vcd_utils.vcd_add_noise import add_diffusion_noise
+from vcd_utils.vcd_add_noise import add_diffusion_noise, add_blurred_objects_noise
 from vcd_utils.vcd_sample import evolve_vcd_sampling
 evolve_vcd_sampling()
 
@@ -30,19 +30,19 @@ def eval_model(args):
     disable_torch_init()
     model_path = os.path.expanduser(args.model_path)
     model_name = get_model_name_from_path(model_path)
-    tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, args.model_base, model_name, load_8bit=True)
+    tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, args.model_base, model_name, load_4bit=True)
     model.gradient_checkpointing_enable()
     model = torch.compile(model)
     print(torch.cuda.memory_summary())
 
-    questions = [json.loads(q) for q in open(os.path.expanduser(args.question_file), "r")]
+    questions = json.load(open(os.path.expanduser(args.question_file), "r"))[:30]
     answers_file = os.path.expanduser(args.answers_file)
     os.makedirs(os.path.dirname(answers_file), exist_ok=True)
     ans_file = open(answers_file, "w")
     for line in tqdm(questions):
-        idx = line["question_id"]
+        idx = line["id"]
         image_file = line["image"]
-        qs = line["text"]
+        qs = line["query"]
         cur_prompt = qs
         if model.config.mm_use_im_start_end:
             qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_TOKEN + DEFAULT_IM_END_TOKEN + '\n' + qs
@@ -50,7 +50,7 @@ def eval_model(args):
             qs = DEFAULT_IMAGE_TOKEN + '\n' + qs
 
         conv = conv_templates[args.conv_mode].copy()
-        conv.append_message(conv.roles[0], qs + " Please answer this question with one word.")
+        conv.append_message(conv.roles[0], qs)
         conv.append_message(conv.roles[1], None)
         prompt = conv.get_prompt()
 
@@ -101,12 +101,8 @@ def eval_model(args):
             outputs = outputs[:-len(stop_str)]
         outputs = outputs.strip()
 
-        ans_file.write(json.dumps({"question_id": idx,
-                                   "prompt": cur_prompt,
-                                   "text": outputs,
-                                   "model_id": model_name,
-                                   "image": image_file,
-                                   "metadata": {}}) + "\n")
+        ans_file.write(json.dumps({"id": idx,
+                                   "response": outputs}) + "\n")
         ans_file.flush()
     ans_file.close()
 

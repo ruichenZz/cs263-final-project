@@ -149,7 +149,7 @@ def sample(
             # version 2 set cutoff for Adaptive Plausibility Constraints
             cutoff = torch.log(torch.tensor(cd_beta)) + next_token_logits.max(dim=-1, keepdim=True).values
             
-            diffs = (1+cd_alpha)*next_token_logits - cd_alpha*next_token_logits_cd
+            diffs = next_token_logits + cd_alpha * ((next_token_logits - next_token_logits_cd) ** 3)
             cd_logits = diffs.masked_fill(next_token_logits < cutoff, -float("inf"))
 
             ## cd_comments: apply temperature warping and top-k filtering in contrastive decoding
